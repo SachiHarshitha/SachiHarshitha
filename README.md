@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SachiHarshitha
 - 👀 I’m interested in Photography, Programming, Video Creation and Travelling
-- 🌱 I’m currently learning Msc. Electrical Engineering in Darmstadt.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Msc. Electrical Engineering & Information Technology in Hochschule Darmstadt.
+- 💞️ I’m looking to collaborate on anything interesting.
 - 📫 You can reach me via LinkedIn : https://www.linkedin.com/in/sachiharshitha
 
 <!---
