@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SachiHarshitha
 - 👀 I’m interested in Photography, Programming, Video Creation and Travelling
-- 🌱 I’m currently learning Msc. Electrical Engineering & Information Technology in Hochschule Darmstadt.
+- I just had a carrier change from Tesla back to BMW.
+- 🌱 I've completed my Msc. Electrical Engineering & Information Technology in Hochschule Darmstadt.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 You can reach me via LinkedIn : https://www.linkedin.com/in/sachiharshitha
 
