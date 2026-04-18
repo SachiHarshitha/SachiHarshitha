@@ -13,6 +13,7 @@
 - 💹 [**KapNav**](https://github.com/KapNav) , is a modern software platform designed for Aktienclubs, investment groups, and private investors who want to manage, analyze, and discuss portfolios together - securely and intelligently.
 - 🗄️ [Avalonia WASM Browser Storage Library](https://github.com/SachiHarshitha/AvaloniaUI.Browser.Storage) , this library provides the Browser storage services to Avalonia applications.
 - 🎚️ [Avalonia Ribbon](https://github.com/SachiHarshitha/Avalonia.Ribbon) , I have taken over a fork from the original library and currently porting to a cross-platform ribbon control for Avalonia.
+- [Copilot-Usage](https://github.com/SachiHarshitha/copilot-usage), This standalone tool provides transparency towards the Github Copilot token usage per project using real token usage and estimations.
 
 <!---
 SachiHarshitha/SachiHarshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
