@@ -13,8 +13,10 @@
 - 💹 [**KapNav**](https://github.com/KapNav) , is a modern software platform designed for Aktienclubs, investment groups, and private investors who want to manage, analyze, and discuss portfolios together - securely and intelligently.
 - 🗄️ [Avalonia WASM Browser Storage Library](https://github.com/SachiHarshitha/AvaloniaUI.Browser.Storage) , this library provides the Browser storage services to Avalonia applications.
 - 🎚️ [Avalonia Ribbon](https://github.com/SachiHarshitha/Avalonia.Ribbon) , I have taken over a fork from the original library and currently porting to a cross-platform ribbon control for Avalonia.
-- [Copilot-Usage](https://github.com/SachiHarshitha/copilot-usage), This standalone tool provides transparency towards the Github Copilot token usage per project using real token usage and estimations.
-
+- 📊 [Copilot-Usage](https://github.com/SachiHarshitha/copilot-usage), This standalone tool provides transparency towards the Github Copilot token usage per project using real token usage and estimations.
+- 🏗️ [RALF (Role-Agent Lifecycle Framework)](https://github.com/RALF-Framework), is an open framework for building lifecycle-aware, role-driven AI systems that turn domain expertise into governed, reusable workflows.
+- 🔥 [PromptStreak](promptstreak.dev) is a developer transparency platform that turns AI coding usage into public profiles, repo badges, and leaderboards for showcasing AI-native development.
+- 
 <!---
 SachiHarshitha/SachiHarshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
